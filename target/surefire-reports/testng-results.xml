@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-16T18:20:31 IST" name="Suite" finished-at="2023-05-16T18:22:13 IST" duration-ms="101321">
+    <groups>
+    </groups>
+    <test started-at="2023-05-16T18:20:31 IST" name="Test" finished-at="2023-05-16T18:22:13 IST" duration-ms="101321">
+      <class name="testfile.addtocartrealme">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:20:22 IST" name="Launch" finished-at="2023-05-16T18:20:31 IST" duration-ms="9518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method is-config="true" signature="x()[pri:0, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:20:31 IST" name="x" finished-at="2023-05-16T18:20:32 IST" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- x -->
+        <test-method signature="Brand()[pri:1, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:20:32 IST" name="Brand" finished-at="2023-05-16T18:20:42 IST" duration-ms="10099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Brand -->
+        <test-method signature="App()[pri:2, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:20:42 IST" name="App" finished-at="2023-05-16T18:20:52 IST" duration-ms="10099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- App -->
+        <test-method signature="Bulkorders()[pri:3, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:20:52 IST" name="Bulkorders" finished-at="2023-05-16T18:21:02 IST" duration-ms="10084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bulkorders -->
+        <test-method signature="Community()[pri:4, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:02 IST" name="Community" finished-at="2023-05-16T18:21:12 IST" duration-ms="10092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Community -->
+        <test-method signature="Support()[pri:5, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:12 IST" name="Support" finished-at="2023-05-16T18:21:22 IST" duration-ms="10073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Support -->
+        <test-method signature="realmestores()[pri:6, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:22 IST" name="realmestores" finished-at="2023-05-16T18:21:32 IST" duration-ms="10085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realmestores -->
+        <test-method signature="realmeow()[pri:7, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:32 IST" name="realmeow" finished-at="2023-05-16T18:21:42 IST" duration-ms="10076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realmeow -->
+        <test-method signature="UI4()[pri:8, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:42 IST" name="UI4" finished-at="2023-05-16T18:21:52 IST" duration-ms="10099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UI4 -->
+        <test-method signature="G4()[pri:9, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:21:52 IST" name="G4" finished-at="2023-05-16T18:22:02 IST" duration-ms="10102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- G4 -->
+        <test-method signature="realmesmartphones()[pri:10, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:22:02 IST" name="realmesmartphones" finished-at="2023-05-16T18:22:13 IST" duration-ms="10252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realmesmartphones -->
+        <test-method is-config="true" signature="y()[pri:0, instance:testfile.addtocartrealme@2a798d51]" started-at="2023-05-16T18:22:13 IST" name="y" finished-at="2023-05-16T18:22:13 IST" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- y -->
+      </class> <!-- testfile.addtocartrealme -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

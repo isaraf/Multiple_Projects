@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-22T15:59:34 IST" name="Default suite" finished-at="2023-05-22T16:01:07 IST" duration-ms="93330">
+    <groups>
+    </groups>
+    <test started-at="2023-05-22T15:59:34 IST" name="Default test" finished-at="2023-05-22T16:01:07 IST" duration-ms="93330">
+      <class name="testfile.realmeproj">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:28 IST" name="Launch" finished-at="2023-05-22T15:59:34 IST" duration-ms="6230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="AccessoriesandLifestyle()[pri:1, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:34 IST" name="AccessoriesandLifestyle" finished-at="2023-05-22T15:59:34 IST" duration-ms="235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccessoriesandLifestyle -->
+        <test-method signature="Searchicon()[pri:2, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:34 IST" name="Searchicon" finished-at="2023-05-22T15:59:41 IST" duration-ms="7214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Searchicon -->
+        <test-method signature="realmewatch3pro()[pri:3, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:41 IST" name="realmewatch3pro" finished-at="2023-05-22T15:59:49 IST" duration-ms="7517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realmewatch3pro -->
+        <test-method signature="realmewatch3()[pri:4, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:49 IST" name="realmewatch3" finished-at="2023-05-22T15:59:56 IST" duration-ms="7129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- realmewatch3 -->
+        <test-method signature="Black()[pri:5, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T15:59:56 IST" name="Black" finished-at="2023-05-22T16:00:00 IST" duration-ms="4080" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Black -->
+        <test-method signature="pincode()[pri:6, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:00 IST" name="pincode" finished-at="2023-05-22T16:00:04 IST" duration-ms="4127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pincode -->
+        <test-method signature="Accept()[pri:7, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:04 IST" name="Accept" finished-at="2023-05-22T16:00:08 IST" duration-ms="4077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Accept -->
+        <test-method signature="Notify_Me()[pri:8, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:08 IST" name="Notify_Me" finished-at="2023-05-22T16:00:13 IST" duration-ms="4097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Notify_Me -->
+        <test-method signature="phonenumber()[pri:9, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:13 IST" name="phonenumber" finished-at="2023-05-22T16:00:24 IST" duration-ms="11587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- phonenumber -->
+        <test-method signature="passward()[pri:10, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:24 IST" name="passward" finished-at="2023-05-22T16:00:29 IST" duration-ms="5122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passward -->
+        <test-method signature="Signinpassword()[pri:11, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:29 IST" name="Signinpassword" finished-at="2023-05-22T16:00:49 IST" duration-ms="20109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signinpassword -->
+        <test-method signature="CART()[pri:12, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:49 IST" name="CART" finished-at="2023-05-22T16:00:55 IST" duration-ms="6123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CART -->
+        <test-method signature="RealMeNarzo()[pri:13, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:00:55 IST" name="RealMeNarzo" finished-at="2023-05-22T16:01:07 IST" duration-ms="11754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RealMeNarzo -->
+        <test-method signature="AddCartNajro()[pri:14, instance:testfile.realmeproj@543295b0]" started-at="2023-05-22T16:01:07 IST" name="AddCartNajro" finished-at="2023-05-22T16:01:07 IST" duration-ms="107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCartNajro -->
+      </class> <!-- testfile.realmeproj -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
